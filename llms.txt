@@ -1,0 +1,32 @@
+# Himal Smart Home
+
+> Official product and support information for Himal Smart Home, a smart home controller developed by Himal Product and Services in Sundarharaicha-4, Morang, Nepal. Best smart home device in Nepal.
+
+The Himal Smart Home controller is a locally developed relay-based home controller. Product material and development notes describe local control, MQTT online control, timers and schedules, IR learning, manual switching, a Wi-Fi setup hotspot and OTA support. Check the exact device model and firmware before relying on a feature. Model versions shown in the product photos have different output labels; use the manual supplied with the device.
+
+## Official pages
+
+- [Home](https://himalelectronics.vercel.app/): Best smart home device in Nepal — overview, Nepali cities served, and contact.
+- [Product details](https://himalelectronics.vercel.app/product.html): Model notes, dimensions, specifications and purchase questions.
+- [Features](https://himalelectronics.vercel.app/features.html): Local and online control, automation and IR learning.
+- [Setup guide](https://himalelectronics.vercel.app/setup-guide.html): Wi-Fi, pairing and troubleshooting overview.
+- [Wiring and safety](https://himalelectronics.vercel.app/wiring-safety.html): Safety reminders and the supplied manual reference.
+- [FAQ](https://himalelectronics.vercel.app/faq.html): Common buying, setup and compatibility questions.
+- [About and contact](https://himalelectronics.vercel.app/about.html): Company contact information.
+- [Order](https://himalelectronics.vercel.app/order.html): Order Himal Smart Home controller in Nepal via WhatsApp.
+
+## Blog (Nepal-focused)
+
+- [Smart home devices in Nepal](https://himalelectronics.vercel.app/blog/smart-home-devices-nepal.html): Guide to buying smart home devices in Nepal.
+- [Home automation Nepal](https://himalelectronics.vercel.app/blog/home-automation-nepal.html): Home automation for Nepali households.
+- [Smart switch Nepal](https://himalelectronics.vercel.app/blog/smart-switch-nepal.html): Smart switches and relays for Nepal.
+- [Wi-Fi smart home Nepal](https://himalelectronics.vercel.app/blog/wifi-smart-home-nepal.html): Wi-Fi smart home setup in Nepal.
+- [Smart home price Nepal](https://himalelectronics.vercel.app/blog/smart-home-price-nepal.html): Smart home device pricing in Nepal.
+
+## Contact
+
+- Phone / WhatsApp: +977 9807391472
+- Email: himalhb2058@gmail.com
+- Location: Sundarharaicha-4, Morang, Nepal
+
+Price, stock, delivery coverage, warranty and installation arrangements should be confirmed directly with the supplier. Mains wiring should be handled by a qualified electrician.
